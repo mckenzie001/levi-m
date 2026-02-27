@@ -75,4 +75,5 @@
 
 <p align="center">
   <i>“It’s just a matter of time.”</i>
+  <i>"To whom much is given, much is required."</i>
 </p>
